@@ -9,6 +9,6 @@ Lab Projects &amp; Theoretical Problems of the Pattern Recognition course held b
 
 ## Theoretical Problems
 
-**Problem Set 1**: Maximum Likelihood Estimation, Minimax criterion, Bayes Error, Perceptron, KL Divergence, LMS, Bayes meets KNN, Expectation-Maximization
+**Problem Set 1**: Maximum Likelihood Estimation, Minimax criterion, Bayes Error, Perceptron, KL Divergence, LMS, Bayes meets KNN, Expectation-Maximization  <br/>
 
 **Problem Set 2**: SVM, Hidden Markov Models, CART, MLP Backpropagation, KLT - PCA, Graphial Models, LDA, ICA, Logistic Regression, Conditional Independence
